@@ -11,7 +11,7 @@
 
 ## 🎬 Демонстрация
 
-`![Gameplay Demo](assets/gifs/0927.gif)`
+![Gameplay Demo](assets/gifs/0927.gif)
 
 ---
 
