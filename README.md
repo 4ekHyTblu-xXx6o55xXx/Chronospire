@@ -11,11 +11,7 @@
 
 ## 🎬 Демонстрация
 
-<!-- GIF #1: показ основного геймплея -->
-![Gameplay Demo](assets/gifs/gameplay.gif)
-
-<!-- GIF #2: показ боя и анализа -->
-![Battle Demo](assets/gifs/battle.gif)
+`![Gameplay Demo](assets/gifs/0927.gif)`
 
 ---
 
